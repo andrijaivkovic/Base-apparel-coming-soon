@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-using-vanilla-css-and-javascript-gnOTKOr1SC](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-using-vanilla-css-and-javascript-gnOTKOr1SC)
+- Live Site URL: [https://base-apparel-coming-soon-page-ai.netlify.app/](https://base-apparel-coming-soon-page-ai.netlify.app/)
 
 ## My process
 
@@ -55,5 +55,5 @@ In the future I'd like get more proficient in using CSS Grid and start using it 
 
 ## Author
 
-- Frontend Mentor - [@yandrijaivkovic](https://www.frontendmentor.io/profile/andrijaivkovic)
+- Frontend Mentor - [@andrijaivkovic](https://www.frontendmentor.io/profile/andrijaivkovic)
 - Twitter - [@AndrijaIvovic1](https://www.twitter.com/AndrijaIvkovic1)
